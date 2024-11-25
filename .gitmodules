@@ -1,0 +1,6 @@
+[submodule "backend-ways-gallery"]
+	path = backend-ways-gallery
+	url = https://github.com/MDF05/backend-ways-gallery.git
+[submodule "frontend-ways-gallery"]
+	path = frontend-ways-gallery
+	url = https://github.com/MDF05/fe-circle.git
